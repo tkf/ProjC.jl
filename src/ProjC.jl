@@ -1,6 +1,6 @@
 module ProjC
 
-const VERSION = v"0.1"
+const VERSION = v"0.2"
 
 greet() = print("Hello World!")
 

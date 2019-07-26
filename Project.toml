@@ -1,7 +1,7 @@
 name = "ProjC"
 uuid = "36ba297c-afba-11e9-203a-29180f4b1717"
 authors = ["Takafumi Arakaki <aka.tkf@gmail.com>"]
-version = "0.1.0"
+version = "0.2.0"
 
 [compat]
 julia = "1.1"
